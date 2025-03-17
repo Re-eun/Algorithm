@@ -26,5 +26,5 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git add README.md
+          git add ./LeetCode/README.md
           git diff --cached --exit-code || (git commit -m "Update root README [skip ci]" && git push)
