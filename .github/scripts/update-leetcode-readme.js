@@ -19,7 +19,7 @@ function getProblems(rootDir) {
             ? {
                 number: match[1],
                 title: match[2].replace(/-/g, " "),
-                link: `LeetCode/${difficulty}/${folder}`,
+                link: `${difficulty}/${folder}`,
               }
             : null;
         })
