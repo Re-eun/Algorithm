@@ -14,7 +14,7 @@
 ## ✅ Easy
 | 번호 | 제목 |
 |------|------|
-| 0001 | [two sum](LeetCode/Easy/0001-two-sum) |
+| 0001 | [two sum](./Easy/0001-two-sum) |
 
 ## ✅ Medium
 | 번호 | 제목 |
