@@ -1,10 +1,10 @@
-name: Update Root README
+name: Update ./LeetCode/README.me
 
 on:
   push:
     branches: [main]
-    paths-ignore:
-      - "**/README.md"
+    paths:
+      - "./LeetCode/**"
   workflow_dispatch:
 
 jobs:
@@ -27,4 +27,4 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add ./LeetCode/README.md
-          git diff --cached --exit-code || (git commit -m "Update root README [skip ci]" && git push)
+          git diff --cached --exit-code || (git commit -m "Update ./LeetCode/README [skip ci]" && git push)
