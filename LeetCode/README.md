@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 |--------|------------|
-| Easy | 4 |
+| Easy | 5 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total Solved** | **4** |
+| **Total Solved** | **5** |
 
 ---
 
@@ -18,6 +18,7 @@
 | 0009 | [palindrome number](./Easy/0009-palindrome-number) |
 | 0013 | [roman to integer](./Easy/0013-roman-to-integer) |
 | 0014 | [longest common prefix](./Easy/0014-longest-common-prefix) |
+| 0020 | [valid parentheses](./Easy/0020-valid-parentheses) |
 
 ## ✅ Medium
 | 번호 | 제목 |
