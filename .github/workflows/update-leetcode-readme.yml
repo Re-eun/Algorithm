@@ -3,6 +3,8 @@ name: Update ./LeetCode/README.me
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - "**/README.md"
     paths:
       - "LeetCode/**"
   workflow_dispatch:
