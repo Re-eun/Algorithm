@@ -4,9 +4,9 @@ on:
   push:
     branches: [main]
     paths:
-      - "LeetCode/Easy/**"
-      - "LeetCode/Medium/**"
-      - "LeetCode/Hard/**"
+      - "LeetCode/Easy/**.ts"
+      - "LeetCode/Medium/**.ts"
+      - "LeetCode/Hard/**.ts"
   workflow_dispatch:
 
 jobs:
