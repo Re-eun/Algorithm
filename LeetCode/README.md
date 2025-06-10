@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 |--------|------------|
-| Easy | 7 |
+| Easy | 8 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total Solved** | **7** |
+| **Total Solved** | **8** |
 
 ---
 
@@ -21,6 +21,7 @@
 | 0020 | [valid parentheses](./Easy/0020-valid-parentheses) |
 | 0021 | [merge two sorted lists](./Easy/0021-merge-two-sorted-lists) |
 | 0026 | [remove duplicates from sorted array](./Easy/0026-remove-duplicates-from-sorted-array) |
+| 0027 | [remove element](./Easy/0027-remove-element) |
 
 ## ✅ Medium
 | 번호 | 제목 |
