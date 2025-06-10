@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 |--------|------------|
-| Easy | 8 |
+| Easy | 9 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total Solved** | **8** |
+| **Total Solved** | **9** |
 
 ---
 
@@ -22,6 +22,7 @@
 | 0021 | [merge two sorted lists](./Easy/0021-merge-two-sorted-lists) |
 | 0026 | [remove duplicates from sorted array](./Easy/0026-remove-duplicates-from-sorted-array) |
 | 0027 | [remove element](./Easy/0027-remove-element) |
+| 0028 | [find the index of the first occurrence in a string](./Easy/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 
 ## ✅ Medium
 | 번호 | 제목 |
