@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 |--------|------------|
-| Easy | 10 |
+| Easy | 11 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total Solved** | **10** |
+| **Total Solved** | **11** |
 
 ---
 
@@ -24,6 +24,7 @@
 | 0027 | [remove element](./Easy/0027-remove-element) |
 | 0028 | [find the index of the first occurrence in a string](./Easy/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | 0035 | [search insert position](./Easy/0035-search-insert-position) |
+| 0058 | [length of last word](./Easy/0058-length-of-last-word) |
 
 ## ✅ Medium
 | 번호 | 제목 |
