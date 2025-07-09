@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 |--------|------------|
-| Easy | 12 |
+| Easy | 13 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total Solved** | **12** |
+| **Total Solved** | **13** |
 
 ---
 
@@ -26,6 +26,7 @@
 | 0035 | [search insert position](./Easy/0035-search-insert-position) |
 | 0058 | [length of last word](./Easy/0058-length-of-last-word) |
 | 0121 | [best time to buy and sell stock](./Easy/0121-best-time-to-buy-and-sell-stock) |
+| 0283 | [move zeroes](./Easy/0283-move-zeroes) |
 
 ## ✅ Medium
 | 번호 | 제목 |
