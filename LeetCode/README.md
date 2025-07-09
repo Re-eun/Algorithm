@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 |--------|------------|
-| Easy | 11 |
+| Easy | 12 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total Solved** | **11** |
+| **Total Solved** | **12** |
 
 ---
 
@@ -25,6 +25,7 @@
 | 0028 | [find the index of the first occurrence in a string](./Easy/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | 0035 | [search insert position](./Easy/0035-search-insert-position) |
 | 0058 | [length of last word](./Easy/0058-length-of-last-word) |
+| 0121 | [best time to buy and sell stock](./Easy/0121-best-time-to-buy-and-sell-stock) |
 
 ## ✅ Medium
 | 번호 | 제목 |
