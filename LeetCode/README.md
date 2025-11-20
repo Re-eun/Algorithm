@@ -4,10 +4,10 @@
 
 | Difficulty | Solved Count |
 |--------|------------|
-| Easy | 13 |
-| Medium | 0 |
+| Easy | 14 |
+| Medium | 2 |
 | Hard | 0 |
-| **Total Solved** | **13** |
+| **Total Solved** | **16** |
 
 ---
 
@@ -26,11 +26,14 @@
 | 0035 | [search insert position](./Easy/0035-search-insert-position) |
 | 0058 | [length of last word](./Easy/0058-length-of-last-word) |
 | 0121 | [best time to buy and sell stock](./Easy/0121-best-time-to-buy-and-sell-stock) |
+| 0206 | [reverse linked list](./Easy/0206-reverse-linked-list) |
 | 0283 | [move zeroes](./Easy/0283-move-zeroes) |
 
 ## ✅ Medium
 | 번호 | 제목 |
 |------|------|
+| 0287 | [find the duplicate number](./Medium/0287-find-the-duplicate-number) |
+| 1448 | [count good nodes in binary tree](./Medium/1448-count-good-nodes-in-binary-tree) |
 
 ## ✅ Hard
 | 번호 | 제목 |
